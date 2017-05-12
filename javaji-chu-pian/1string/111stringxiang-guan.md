@@ -38,9 +38,9 @@
 
 ##### 6.String vs StringBuilder vs StringBuffer
 
-String vs StringBuilder: StringBuilder是可变的，这意味着它创建之后仍旧可以更改它的值。
+> String vs StringBuilder: StringBuilder是可变的，这意味着它创建之后仍旧可以更改它的值。
 
-StringBuilder vs StringBuffer: StringBuffer是synchronized的,它是线程安全的的，但是比StringBuilder要慢。
+> StringBuilder vs StringBuffer: StringBuffer是synchronized的,它是线程安全的的，但是比StringBuilder要慢。
 
 ##### 7.如何重复一个字符串
 
