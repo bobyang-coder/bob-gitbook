@@ -45,22 +45,22 @@
 ##### 7.如何重复一个字符串
 
 > 在Python中,我们可以乘一个数值来重复一个字符串。在Java中，我们可以使用Apache Commons Lang包中的StringUtils.repeat\(\)方法来重复一个字符串。
-
+>
 > String str = "abcd";
-
+>
 > String repeated = StringUtils.repeat\(str,3\);
-
+>
 > //abcdabcdabcd
 
 ##### 8.如何将字符串转换成时间
 
-String str = "Sep 17, 2013";
-
-Date date = new SimpleDateFormat\("MMMM d, yy", Locale.ENGLISH\).parse\(str\);
-
-System.out.println\(date\);
-
-//Tue Sep 17 00:00:00 EDT 2013
+> `String str = "Sep 17, 2013";`
+>
+> `Date date = new SimpleDateFormat("MMMM d, yy", Locale.ENGLISH).parse(str);`
+>
+> `System.out.println(date);`
+>
+> `//Tue Sep 17 00:00:00 EDT 2013`
 
 1. 如何计算一个字符串某个字符的出现次数?
 
