@@ -64,9 +64,11 @@
 
 ##### 9.如何计算一个字符串某个字符的出现次数?
 
-请使用apache commons lang包中的StringUtils：
+> 请使用apache commons lang包中的StringUtils：
+>
+> int n = StringUtils.countMatches\("11112222", "1"\);
+>
+> System.out.println\(n\);
 
-int n = StringUtils.countMatches\("11112222", "1"\);
 
-System.out.println\(n\);
 
