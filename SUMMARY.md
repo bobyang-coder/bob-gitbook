@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
-* [Java基础篇](javaji-chu-pian.md)
-* [Java高级篇](chapter1.md)
+* [简介](README.md)
+* [一、Java提高篇](javaji-chu-pian.md)
 
