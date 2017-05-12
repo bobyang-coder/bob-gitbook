@@ -42,7 +42,7 @@ String vs StringBuilder: StringBuilder是可变的，这意味着它创建之后
 
 StringBuilder vs StringBuffer: StringBuffer是synchronized的,它是线程安全的的，但是比StringBuilder要慢。
 
-1. 如何重复一个字符串
+##### 7.如何重复一个字符串
 
 在Python中,我们可以乘一个数值来重复一个字符串。在Java中，我们可以使用Apache Commons Lang包中的StringUtils.repeat\(\)方法来重复一个字符串。
 
