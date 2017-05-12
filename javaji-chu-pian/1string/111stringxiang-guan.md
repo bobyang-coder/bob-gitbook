@@ -36,7 +36,7 @@ str.substring\(m, n\) + ""
 
 在Oracle JDK 7中，substring\(\)会创建新的字符数组，而不是使用现存的字符数组。点击查看JDK 6和JDK 7中substring\(\)的分别。
 
-1. String vs StringBuilder vs StringBuffer
+##### 6.String vs StringBuilder vs StringBuffer
 
 String vs StringBuilder: StringBuilder是可变的，这意味着它创建之后仍旧可以更改它的值。
 
