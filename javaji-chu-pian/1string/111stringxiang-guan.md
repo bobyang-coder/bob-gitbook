@@ -39,20 +39,20 @@
 ##### 6.String vs StringBuilder vs StringBuffer
 
 > String vs StringBuilder: StringBuilder是可变的，这意味着它创建之后仍旧可以更改它的值。
-
+>
 > StringBuilder vs StringBuffer: StringBuffer是synchronized的,它是线程安全的的，但是比StringBuilder要慢。
 
 ##### 7.如何重复一个字符串
 
-在Python中,我们可以乘一个数值来重复一个字符串。在Java中，我们可以使用Apache Commons Lang包中的StringUtils.repeat\(\)方法来重复一个字符串。
+> 在Python中,我们可以乘一个数值来重复一个字符串。在Java中，我们可以使用Apache Commons Lang包中的StringUtils.repeat\(\)方法来重复一个字符串。
 
-String str = "abcd";
+> String str = "abcd";
 
-String repeated = StringUtils.repeat\(str,3\);
+> String repeated = StringUtils.repeat\(str,3\);
 
-//abcdabcdabcd
+> //abcdabcdabcd
 
-1. 如何将字符串转换成时间
+##### 8.如何将字符串转换成时间
 
 String str = "Sep 17, 2013";
 
