@@ -1,4 +1,4 @@
-### what?\(是什么？\)
+### what?
 
 > SpringBoot是伴随着Spring4.0诞生的；
 >
