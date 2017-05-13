@@ -2,20 +2,18 @@
 @SpringBootApplication
 ```
 
-
-
 ```
 @RestController
 ```
 
-
-
-
+```
+@EnableAutoConfiguration
+```
 
 
 
 ```
-@EnableAutoConfiguration
+@RequestParam
 ```
 
 
