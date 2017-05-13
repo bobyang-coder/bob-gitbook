@@ -8,12 +8,55 @@
 
 
 
+![](/assets/11.png)
+
 ```java
 @Override
 public void update(BindCard bindCard) {
     bindCardService.updateBindCard(bindCard);
 }
+
+/**
+ * 修改卡信息接口
+ *
+ * @param bindCardReq
+ * @param type        baseMsg,phoneNo
+ * @return
+ * @throws ServiceException
+ */
+public BindCard midifyCardMsg(BindCardReq bindCardReq, String type) throws ServiceException {
+    logger.info("【修改卡信息接口】bindCardReq=" + bindCardReq.toString());
+    this.validateParam(bindCardReq, type);
+    this.validateParamLength(bindCardReq, null);
+    String memberNo = bindCardReq.getMemberNo();
+    memberCheckService.checkMemberStatus(bindCardReq.getCustomerNo(), bindCardReq.getMemberNo(), true);
+    Object member = memberCheckService.checkMemeberExist(bindCardReq.getCustomerNo(), memberNo);
+    if (member instanceof CustEnterprise) {
+        throw new ServiceException(BizCode.BIND_CARD_NOT_SUPPORT_ENTERPRISE_MEMBER.getCode(), BizCode.BIND_CARD_NOT_SUPPORT_ENTERPRISE_MEMBER.getMsg());
+    }
+    //判断绑卡是否存在
+    BindCard bindCard = bindCardService.getBindCardById(bindCardReq.getBindId());//查询绑卡信息
+    if (null == bindCard || !CustmemConstants.BIND_STATUS_BINDED.equals(bindCard.getBindStatus())) {
+        throw new ServiceException(BizCode.CARD_MSG_NOT_EXIST.getCode(), BizCode.CARD_MSG_NOT_EXIST.getMsg());
+    }
+    if (!bindCard.getMemberNo().equals(bindCardReq.getMemberNo()) || !bindCard.getMerchantId().equals(bindCardReq.getCustomerNo())) {//判断绑卡id是否属于该会员下的
+        throw new ServiceException(BizCode.CARD_MSG_NOT_EXIST.getCode(), BizCode.CARD_MSG_NOT_EXIST.getMsg());
+    }
+    //以下赋值只是为了传参给支付密码页面
+    bindCard.setProvince(bindCardReq.getProvince());
+    bindCard.setCity(bindCardReq.getCity());
+    bindCard.setBranchBank(bindCardReq.getBranchBank());
+    bindCard.setSubBranchBank(bindCardReq.getSubBranchBank());
+    bindCard.setMobile(bindCardReq.getMobile());
+    return bindCard;
+}
 ```
+
+ 
+
+ 
+
+ 
 
 ---
 
