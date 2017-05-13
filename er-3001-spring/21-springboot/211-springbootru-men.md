@@ -1,4 +1,4 @@
-##### 什么是**SpringBoot**？
+1. ##### 什么是**SpringBoot**？
 
 > SpringBoot是伴随着Spring4.0诞生的；
 >
@@ -10,7 +10,7 @@
 >
 > SpringBoot简化了使用Spring的过程。
 
-##### 解决了哪些问题？
+1. ##### 解决了哪些问题？
 
 ```
  1) Spring Boot使编码变简单
