@@ -1,4 +1,4 @@
-### what?
+### what?\(是什么？\)
 
 > SpringBoot是伴随着Spring4.0诞生的；
 >
@@ -9,8 +9,6 @@
 > SpringBoot继承了原有Spring框架的优秀基因；
 >
 > SpringBoot简化了使用Spring的过程。
-
-
 
 how?
 
