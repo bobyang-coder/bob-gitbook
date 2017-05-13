@@ -14,6 +14,8 @@
 
 ```
  1) Spring Boot使编码变简单
+  Spring由于其繁琐的配置，一度被人认为“配置地狱”，各种XML、Annotation配置，让人眼花缭乱，而且如果出错了也很难找出原因。
+  Spring Boot更多的是采用Java Config的方式，对Spring进行配置。
 
  2) Spring Boot使配置变简单
 
