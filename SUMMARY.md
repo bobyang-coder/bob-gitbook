@@ -9,5 +9,5 @@
 * [二、Spring](er-3001-spring.md)
   * [2.1 SpringBoot](er-3001-spring/21-springboot.md)
     * [2.1.1 SpringBoot入门](er-3001-spring/21-springboot/211-springbootru-men.md)
-    * [2.1.2 SpringBoot之HelloWorld](er-3001-spring/21-springboot/212-springbootzhi-helloworld.md)
+    * [2.1.2 SpringBoot之相关注解](er-3001-spring/21-springboot/212-springbootzhi-helloworld.md)
 
