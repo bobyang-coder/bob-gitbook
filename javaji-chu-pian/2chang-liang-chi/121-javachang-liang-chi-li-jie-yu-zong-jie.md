@@ -8,11 +8,12 @@
 
 
 
-
-
-
-
-
+```java
+@Override
+public void update(BindCard bindCard) {
+    bindCardService.updateBindCard(bindCard);
+}
+```
 
 ---
 
