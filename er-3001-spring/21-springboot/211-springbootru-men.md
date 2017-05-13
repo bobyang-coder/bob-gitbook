@@ -20,9 +20,9 @@
   Spring Boot更多的是采用Java Config的方式，对Spring进行配置。
 
  3) Spring Boot使部署变简单
-  一键启动
-  不需要预部署应用服务器
-  降低对运行环境的基本要求；环境变量中只有JDK即可，全量更新，默认内嵌Tomcat
+  a.一键启动
+  b.不需要预部署应用服务器
+  c.降低对运行环境的基本要求；环境变量中只有JDK即可，全量更新，默认内嵌Tomcat
  4) Spring Boot使监控变简单
 ```
 
