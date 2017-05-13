@@ -1,4 +1,22 @@
-##### 开发环境：
+```
+@SpringBootApplication
+```
+
+
+
+```
+@RestController
+```
+
+
+
+
+
+
+
+```
+@EnableAutoConfiguration
+```
 
 
 
