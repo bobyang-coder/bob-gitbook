@@ -34,6 +34,8 @@
 >   "defaultValue": false
 > },
 > ```
+>
+> 而当我们需要使用CGLIB来实现AOP的时候，需要配置`spring.aop.proxy-target-class=true`，不然默认使用的是标准Java的实现。
 
 
 
