@@ -19,6 +19,21 @@
 > 在完成了引入AOP依赖包后，一般来说并不需要去做其他配置。也许在Spring中使用过注解配置方式的人会问是否需要在程序主类中增加`@EnableAspectJAutoProxy`来启用，实际并不需要。
 >
 > 可以看下面关于AOP的默认配置属性，其中`spring.aop.auto`属性默认是开启的，也就是说只要引入了AOP依赖后，默认已经增加了`@EnableAspectJAutoProxy`。
+>
+> ```java
+> {
+>   "name": "spring.aop.auto",
+>   "type": "java.lang.Boolean",
+>   "description": "Add @EnableAspectJAutoProxy.",
+>   "defaultValue": true
+> },
+> {
+>   "name": "spring.aop.proxy-target-class",
+>   "type": "java.lang.Boolean",
+>   "description": "Whether subclass-based (CGLIB) proxies are to be created (true) as opposed to standard Java interface-based proxies (false).",
+>   "defaultValue": false
+> },
+> ```
 
 
 
