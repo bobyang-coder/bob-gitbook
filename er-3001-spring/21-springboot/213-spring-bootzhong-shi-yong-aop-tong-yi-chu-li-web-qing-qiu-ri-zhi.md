@@ -8,7 +8,7 @@
 
 > 在Spring Boot中引入AOP就跟引入其他模块一样，非常简单，只需要在`pom.xml`中加入如下依赖：
 
-```java
+```
 <!--aop-->
 <dependency>
     <groupId>org.springframework.boot</groupId>
@@ -20,7 +20,7 @@
 >
 > 可以看下面关于AOP的默认配置属性，其中`spring.aop.auto`属性默认是开启的，也就是说只要引入了AOP依赖后，默认已经增加了`@EnableAspectJAutoProxy`。
 >
-> ```java
+> ```
 > {
 >   "name": "spring.aop.auto",
 >   "type": "java.lang.Boolean",
