@@ -160,9 +160,16 @@
 > Hibernate: select girl0_.id as id1_0_0_, girl0_.age as age2_0_0_, girl0_.name as name3_0_0_ from girl girl0_ where girl0_.id=?
 > 2017-05-14 22:39:25.467  INFO 16734 --- [nio-8080-exec-3] com.bob.stu.aspect.HttpRequestAspect     : ----------loggingAfter----------------
 > 2017-05-14 22:39:25.468  INFO 16734 --- [nio-8080-exec-3] com.bob.stu.aspect.HttpRequestAspect     : response=Girl{id=1, name='bob', age=12}
-> 2017-05-14 22:39:25.468  INFO 16734 --- [nio-8080-exec-3] com.bob.stu.aspect.HttpRequestAspect     : spend time : 15 
->
+> 2017-05-14 22:39:25.468  INFO 16734 --- [nio-8080-exec-3] com.bob.stu.aspect.HttpRequestAspect     : spend time : 15
 > ```
+
+#### 优化：AOP切面中的同步问题 {#优化：AOP切面中的同步问题}
+
+> 在WebLogAspect切面中，分别通过doBefore和doAfterReturning两个独立函数实现了切点头部和切点返回后执行的内容，若我们想统计请求的处理时间，就需要在doBefore处记录时间，并在doAfterReturning处通过当前时间与开始处记录的时间计算得到请求处理的消耗时间。
+>
+> 那么我们是否可以在WebLogAspect切面中定义一个成员变量来给doBefore和doAfterReturning一起访问呢？是否会有同步问题呢？
+>
+> 的确，直接在这里定义基本类型会有同步问题，所以我们可以引入ThreadLocal对象，像下面这样进行记录：
 
 ---
 
