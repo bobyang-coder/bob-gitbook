@@ -19,11 +19,11 @@
 >
 > ##### 通知类型介绍：
 >
-> 1. ##### **前置通知\[Before advice\]**：在连接点前面执行，前置通知不会影响连接点的执行，除非此处抛出异常。
-> 2. ##### **正常返回通知\[After returning advice\]**：在连接点正常执行完成后执行，如果连接点抛出异常，则不会执行。
-> 3. ##### **异常通知\[Throws advice\]**：如果一个方法抛出异常，通知将会被执行。Spring提供了健壮的类型以抛出通知，所以你可以按自己的喜好编写代码捕捉异常（和子类），而不需要通过Throwable或Exception。
-> 4. ##### **返回通知\[After \(finally\) advice\]**：在连接点执行完成后执行，不管是正常执行完成，还是抛出异常，都会执行返回通知中的内容。
-> 5. ##### **环绕通知\[Around advice\]**：环绕通知围绕在连接点前后，比如一个方法调用的前后。这是最强大的通知类型，能在方法调用前后自定义一些操作。环绕通知还需要负责决定是继续处理join point\(调用ProceedingJoinPoint的proceed方法\)还是中断执行。
+> 1. **前置通知\[Before advice\]**：在连接点前面执行，前置通知不会影响连接点的执行，除非此处抛出异常。
+> 2. **正常返回通知\[After returning advice\]**：在连接点正常执行完成后执行，如果连接点抛出异常，则不会执行。
+> 3. **异常通知\[Throws advice\]**：如果一个方法抛出异常，通知将会被执行。Spring提供了健壮的类型以抛出通知，所以你可以按自己的喜好编写代码捕捉异常（和子类），而不需要通过Throwable或Exception。
+> 4. **返回通知\[After \(finally\) advice\]**：在连接点执行完成后执行，不管是正常执行完成，还是抛出异常，都会执行返回通知中的内容。
+> 5. **环绕通知\[Around advice\]**：环绕通知围绕在连接点前后，比如一个方法调用的前后。这是最强大的通知类型，能在方法调用前后自定义一些操作。环绕通知还需要负责决定是继续处理join point\(调用ProceedingJoinPoint的proceed方法\)还是中断执行。
 
 ---
 
@@ -193,6 +193,3 @@
 
 1. [http://blog.sina.com.cn/s/blog\_616dbe3d0100eijy.html](http://blog.sina.com.cn/s/blog_616dbe3d0100eijy.html)
 2. [http://blog.didispace.com/springbootaoplog/](http://blog.didispace.com/springbootaoplog/)
-
-
-
