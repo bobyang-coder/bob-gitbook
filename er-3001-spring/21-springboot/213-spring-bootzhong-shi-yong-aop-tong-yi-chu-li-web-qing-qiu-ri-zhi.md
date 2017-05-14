@@ -80,7 +80,7 @@
 >   * 使用`@Around`在切入点前后切入内容，并自己控制何时执行切入点自身的内容
 >   * 使用`@AfterThrowing`用来处理当切入内容部分抛出异常之后的处理逻辑
 >
-> ```
+> ```java
 > package com.bob.stu.aspect;
 >
 > import org.aspectj.lang.JoinPoint;
@@ -143,7 +143,6 @@
 >         logger.info("spend time : {} ", System.currentTimeMillis() - startTime.get());//计算程序执行时间
 >     }
 > }
->
 > ```
 
 ---
