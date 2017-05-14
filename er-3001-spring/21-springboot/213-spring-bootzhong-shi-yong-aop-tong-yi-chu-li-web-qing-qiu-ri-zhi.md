@@ -169,7 +169,7 @@
 >
 > 那么我们是否可以在HttpRequestAspect切面中定义一个成员变量来给doBefore和doAfterReturning一起访问呢？是否会有同步问题呢？的确，直接在这里定义基本类型会有同步问题，所以我们可以引入ThreadLocal对象，像下面这样进行记录：
 >
-> ```
+> ```java
 > ThreadLocal<Long> startTime = new ThreadLocal<>();
 > ```
 
