@@ -38,7 +38,7 @@
 
 > 在Spring Boot中引入AOP就跟引入其他模块一样，非常简单，只需要在`pom.xml`中加入如下依赖：在完成了引入AOP依赖包后，一般来说并不需要去做其他配置。也许在Spring中使用过注解配置方式的人会问是否需要在程序主类中增加`@EnableAspectJAutoProxy`来启用，实际并不需要。
 >
-> ```asciidoc
+> ```java
 > <!--aop-->
 > <dependency>
 >     <groupId>org.springframework.boot</groupId>
