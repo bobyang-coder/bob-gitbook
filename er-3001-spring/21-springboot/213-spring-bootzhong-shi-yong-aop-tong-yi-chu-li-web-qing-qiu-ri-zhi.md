@@ -148,6 +148,21 @@
 > 可以看上面的例子，通过`@Pointcut`定义的切入点为`com.bob.stu.controller` 包下的所有函数（对web层所有请求处理做切入点），然后通过`@Before`实现，对请求内容的日志记录（本文只是说明过程，可以根据需要调整内容），最后通过`@AfterReturning`记录请求返回的对象。
 >
 > 通过运行程序并访问：`http://localhost:8080/girl/1`，可以获得下面的日志输出
+>
+> ```
+> 2017-05-14 22:39:25.451  INFO 16734 --- [nio-8080-exec-3] com.bob.stu.aspect.HttpRequestAspect     : ----------loggingBefore----------------
+> 2017-05-14 22:39:25.452  INFO 16734 --- [nio-8080-exec-3] com.bob.stu.aspect.HttpRequestAspect     : url=http://127.0.0.1:8080/girl2/1
+> 2017-05-14 22:39:25.453  INFO 16734 --- [nio-8080-exec-3] com.bob.stu.aspect.HttpRequestAspect     : http_method=GET
+> 2017-05-14 22:39:25.453  INFO 16734 --- [nio-8080-exec-3] com.bob.stu.aspect.HttpRequestAspect     : visitor_ip=127.0.0.1
+> 2017-05-14 22:39:25.453  INFO 16734 --- [nio-8080-exec-3] com.bob.stu.aspect.HttpRequestAspect     : class_method=com.bob.stu.controller.Girl2Controller.get
+> 2017-05-14 22:39:25.453  INFO 16734 --- [nio-8080-exec-3] com.bob.stu.aspect.HttpRequestAspect     : method_args=1
+> 2017-05-14 22:39:25.453  INFO 16734 --- [nio-8080-exec-3] com.bob.stu.controller.Girl2Controller   : ==========method:get========
+> Hibernate: select girl0_.id as id1_0_0_, girl0_.age as age2_0_0_, girl0_.name as name3_0_0_ from girl girl0_ where girl0_.id=?
+> 2017-05-14 22:39:25.467  INFO 16734 --- [nio-8080-exec-3] com.bob.stu.aspect.HttpRequestAspect     : ----------loggingAfter----------------
+> 2017-05-14 22:39:25.468  INFO 16734 --- [nio-8080-exec-3] com.bob.stu.aspect.HttpRequestAspect     : response=Girl{id=1, name='bob', age=12}
+> 2017-05-14 22:39:25.468  INFO 16734 --- [nio-8080-exec-3] com.bob.stu.aspect.HttpRequestAspect     : spend time : 15 
+>
+> ```
 
 ---
 
