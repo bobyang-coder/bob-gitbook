@@ -18,7 +18,7 @@ Spring Boot提供的数据访问框架Spring Data Redis基于Jedis。可以通�
 </dependency>
 ```
 
-参数配置
+#### 参数配置
 
 按照惯例在`application.properties`中加入Redis服务端的相关配置，具体说明如下：
 
@@ -27,6 +27,4 @@ Spring Boot提供的数据访问框架Spring Data Redis基于Jedis。可以通�
 
 
 **其中spring.redis.database的配置通常使用0即可，Redis在配置的时候可以设置数据库数量，默认为16，可以理解为数据库的schema**
-
-
 
