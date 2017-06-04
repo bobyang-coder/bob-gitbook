@@ -1,3 +1,5 @@
+使用redis官方镜像搭建集群
+
 `1、 docker pull redis`
 
 `2、docker run -d --name redis-1 -p 7001:6379 redis`
