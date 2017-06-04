@@ -14,4 +14,5 @@
     * [2.1.4 数据库访问](er-3001-spring/21-springboot/214-shu-ju-ku-fang-wen.md)
       * [2.1.4.1 NoSQL\(1\)-Redis](er-3001-spring/21-springboot/214-shu-ju-ku-fang-wen/2141-nosql1-redis.md)
 * [三、Docker](san-3001-docker.md)
+* [3.1利用官方镜像搭建Redis集群](31li-yong-guan-fang-jing-xiang-da-jian-redis-ji-qun.md)
 
