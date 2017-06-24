@@ -63,8 +63,5 @@
 
 大家可以通过这个链接看下jd白条云闪付如何将线上搬到线下，可以受理所有线下商户。
 
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
-span.s1 {font: 13.0px 'Helvetica Neue'}
-
 下面介绍下jd白条云闪付的开卡 开户环节
 
