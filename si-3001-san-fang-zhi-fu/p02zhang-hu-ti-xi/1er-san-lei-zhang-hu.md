@@ -53,9 +53,7 @@
 
 “白条闪付”是由京东白条授信银行借记Ⅱ类账户为载体，开展线下手机支付应用的衍生功能。
 
-流程主要有以下三步：  
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
-span.s1 {font: 13.0px 'Helvetica Neue'}
+流程主要有以下三步：
 
 1） 申请“京东白条”，互联网准定向消费信贷额度申请
 
