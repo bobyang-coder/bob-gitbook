@@ -47,3 +47,16 @@
 
 
 
+
+
+  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+##### JD 白条云闪付
+
+从业务流程来看，“白条闪付”是由京东白条授信银行借记Ⅱ类账户为载体，开展线下手机支付应用的衍生功能。
+
+
+
