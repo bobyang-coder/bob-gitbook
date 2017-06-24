@@ -82,8 +82,6 @@ span.s1 {font: 13.0px 'Helvetica Neue'}
 
 绑卡后，可以完成线下线上消费
 
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}
-
 ###### 消费流程如下
 
 ![](/assets/jd_bt_consume.jpeg)
