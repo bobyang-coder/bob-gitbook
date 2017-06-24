@@ -86,7 +86,5 @@ p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvet
 
 ###### 消费流程如下
 
-
-
-
+![](/assets/jd_bt_consume.jpeg)
 
