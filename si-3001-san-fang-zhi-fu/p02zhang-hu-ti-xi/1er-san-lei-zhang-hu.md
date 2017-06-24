@@ -88,3 +88,16 @@ p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvet
 
 ![](/assets/jd_bt_consume.jpeg)
 
+
+
+
+
+  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+\#\#\#\#\# 美团线下闪付
+
+美团线下闪付 与JD 有些差别
+
+美团账户背后对应的是一张贷记卡 JD 对应的是消费信贷账户。
+
