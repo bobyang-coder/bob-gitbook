@@ -87,7 +87,7 @@
 
 ### 补充了解
 
-### [链接1:【高速路】中国银联打造“账户高速公路”的启示](https://mp.weixin.qq.com/s?__biz=MzA5MTAwODQwNw==&mid=2652850480&idx=2&sn=9dee54f23f9e9c2e672372dd827140e1&chksm=8be915c8bc9e9cde278af89f3335bf8f37c2bdc21f7aa74d22d0116460b1f50ab9c988496b48&mpshare=1&scene=2&srcid=0622qtJhjEqkYlbdxGz3BM6q&from=timeline&key=ae110083100918b9b74b4fbcdd4376414b69876c494f01ca06fed8e2db5a7450fafc6d94153e66dac7061932154a89266ad7dfb10c0bdc3bd705732fc271f9eeae4f102054d9974c347b254a1cfc4492&ascene=0&uin=NDU2OTQwNTE1&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.5+build%2816F73%29&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=mojlvd0PTAD0dAFtbC9ZWBd5aely%2Bh1KGQoNmwSEsVcUTbgl26xEzqvWci%2B8A4Gm)
+### 1.[链接1:【高速路】中国银联打造“账户高速公路”的启示](https://mp.weixin.qq.com/s?__biz=MzA5MTAwODQwNw==&mid=2652850480&idx=2&sn=9dee54f23f9e9c2e672372dd827140e1&chksm=8be915c8bc9e9cde278af89f3335bf8f37c2bdc21f7aa74d22d0116460b1f50ab9c988496b48&mpshare=1&scene=2&srcid=0622qtJhjEqkYlbdxGz3BM6q&from=timeline&key=ae110083100918b9b74b4fbcdd4376414b69876c494f01ca06fed8e2db5a7450fafc6d94153e66dac7061932154a89266ad7dfb10c0bdc3bd705732fc271f9eeae4f102054d9974c347b254a1cfc4492&ascene=0&uin=NDU2OTQwNTE1&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.5+build%2816F73%29&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=mojlvd0PTAD0dAFtbC9ZWBd5aely%2Bh1KGQoNmwSEsVcUTbgl26xEzqvWci%2B8A4Gm)
 
 从银联到发卡行传递的卡信息是PAN呢还是token？
 
