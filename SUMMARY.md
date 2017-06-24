@@ -19,5 +19,5 @@
   * [P01-支付产品](si-3001-san-fang-zhi-fu/p01zhi-fu-chan-pin.md)
     * [1.聚合支付](si-3001-san-fang-zhi-fu/p01zhi-fu-chan-pin/1ju-he-zhi-fu.md)
   * [P02-账户体系](si-3001-san-fang-zhi-fu/p02zhang-hu-ti-xi.md)
-    * [1.二三类账户](si-3001-san-fang-zhi-fu/p02zhang-hu-ti-xi/1er-san-lei-zhang-hu.md)
+    * [1.II、III类账户](si-3001-san-fang-zhi-fu/p02zhang-hu-ti-xi/1er-san-lei-zhang-hu.md)
 
