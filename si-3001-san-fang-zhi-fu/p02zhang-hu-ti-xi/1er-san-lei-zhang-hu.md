@@ -67,5 +67,5 @@
 
 下面介绍下jd白条云闪付的开卡
 
-
+![](/assets/jd_bt_os_pay_openacc.png)
 
