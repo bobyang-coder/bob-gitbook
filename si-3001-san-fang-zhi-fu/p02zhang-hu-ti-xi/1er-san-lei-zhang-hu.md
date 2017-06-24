@@ -61,7 +61,7 @@
 
 * 3） 申请“ApplePay等手机支付，白条额度的银行借记Ⅱ类账户申请Apple Pay等手机支付，突破线下场景
 
-大家可以通过这个链接看下jd白条云闪付如何将线上搬到线下，可以受理所有线下商户。
+大家可以通过这个链接\([七步教你如何用京东白条闪付刷POS机](https://mp.weixin.qq.com/s?__biz=MzA3MjExMTA4Ng==&mid=2653358474&idx=1&sn=003d0db70be4d75b0d51fa3b63512d63&chksm=84f0ef0bb387661d0d866664eedc1ed6ca18d2c2e4ecbfc8aaab795f5f95476d829a84e9dae1&mpshare=1&scene=1&srcid=0609m9WvqxnJvrlrd8NNsLZm&key=ae110083100918b9bdb8299b16aec813cc15e4442a65f9122753db749ae4a091c7fb0304663fb2d7a2a55fabbb6bb0c68e82b035f4420fa7541c10b5d5c456ea8b2594055048538798e24a43cef9551a&ascene=0&uin=NDU2OTQwNTE1&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.5+build%2816F73%29&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=mojlvd0PTAD0dAFtbC9ZWBd5aely%2Bh1KGQoNmwSEsVcUTbgl26xEzqvWci%2B8A4Gm)\)看下jd白条云闪付如何将线上搬到线下，可以受理所有线下商户。
 
 ###### 开户环节
 
