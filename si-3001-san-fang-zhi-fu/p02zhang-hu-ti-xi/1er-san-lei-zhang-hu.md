@@ -69,3 +69,28 @@
 
 ![](/assets/jd_bt_os_pay_openacc.png)
 
+  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+目前因为借记账户的等级不能很好区分，目前我了解的情况应该是仅支持绑定信用卡来开户,  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+申卡完成后，用户拿到卡号，通过手机pay 通过银联TSM平台空中发卡完成绑定,  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+绑卡后，可以完成线下线上消费
+
+  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+
+
+###### 消费流程如下
+
+
+
