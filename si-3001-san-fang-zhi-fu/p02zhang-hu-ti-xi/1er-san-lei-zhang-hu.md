@@ -61,9 +61,6 @@
 
 * 3） 申请“ApplePay等手机支付，白条额度的银行借记Ⅱ类账户申请Apple Pay等手机支付，突破线下场景
 
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
-span.s1 {font: 13.0px 'Helvetica Neue'}
-
 大家可以通过这个链接看下jd白条云闪付如何将线上搬到线下，可以受理所有线下商户。
 
 p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
