@@ -14,11 +14,6 @@
 
 银联支持支持Ⅱ、Ⅲ类账户跨行验证绑定账户信息
 
-  
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
-span.s1 {font: 13.0px 'Helvetica Neue'}  
-
-
 ## 3.资金互转
 
 对非面对面开立的Ⅱ、Ⅲ类户，限制非绑定账户转入
