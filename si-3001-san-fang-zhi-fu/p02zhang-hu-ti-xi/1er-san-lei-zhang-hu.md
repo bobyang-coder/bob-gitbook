@@ -47,19 +47,16 @@
 
 两个的模式都是互联网消费金融正式线上走向线下场景，准定向信贷起源的消费金融模式正式迈向泛场景消费的类信用卡模式
 
-#### JD 白条云闪付
+JD 白条云闪付
 
 从业务流程来看，“白条闪付”是由京东白条授信银行借记Ⅱ类账户为载体，开展线下手机支付应用的衍生功能。
 
-  
 p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
-span.s1 {font: 13.0px 'Helvetica Neue'}  
-
+span.s1 {font: 13.0px 'Helvetica Neue'}
 
 流程主要有以下三步：  
 p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
-span.s1 {font: 13.0px 'Helvetica Neue'}  
-
+span.s1 {font: 13.0px 'Helvetica Neue'}
 
 1） 申请“京东白条”，互联网准定向消费信贷额度申请
 
@@ -67,19 +64,13 @@ span.s1 {font: 13.0px 'Helvetica Neue'}
 
 3） 申请“ApplePay等手机支付，白条额度的银行借记Ⅱ类账户申请Apple Pay等手机支付，突破线下场景
 
-  
 p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
-span.s1 {font: 13.0px 'Helvetica Neue'}  
-
+span.s1 {font: 13.0px 'Helvetica Neue'}
 
 大家可以通过这个链接看下jd白条云闪付如何将线上搬到线下，可以受理所有线下商户。
 
-
-
-  
 p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
-span.s1 {font: 13.0px 'Helvetica Neue'}  
-
+span.s1 {font: 13.0px 'Helvetica Neue'}
 
 下面介绍下jd白条云闪付的开卡 开户环节
 
