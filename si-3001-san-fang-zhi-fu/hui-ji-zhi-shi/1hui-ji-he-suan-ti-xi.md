@@ -1,6 +1,6 @@
-## _会计核算体系_![](/assets/4.0.1.1会计核算体系.png)
+## 1._会计核算体系_![](/assets/4.0.1.1会计核算体系.png)
 
-**会计核算体系由以下几个关键部分组成：科目及账户体系、复式记账方法、会计凭证、会计账簿、账务报表等。                  
+**会计核算体系由以下几个关键部分组成：科目及账户体系、复式记账方法、会计凭证、会计账簿、账务报表等。                    
 **
 
 ### 会计科目
@@ -36,4 +36,94 @@
 ![](/assets/4.0.1.2复式记账法.png)
 
 
+
+  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+【产品群】借贷记账法
+
+ 借贷记账法是以借、贷作为记账符号，来反映经济业务增减变化的一种记账方法
+
+\(By 张泽雄-民生金服-研发-北京\)  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+【产品群】其实就是以借/贷开头的一种符号记账法，如果你高兴，可以用 收/支，也没有问题
+
+\(By 张泽雄-民生金服-研发-北京\)  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+【产品群】借贷单式记账：只对单一账户进行借记或贷记登记。
+
+借贷复式记账：按相等的金额在两个或两个以上有关账户中同时进行登记的方法。
+
+\(By 张泽雄-民生金服-研发-北京\)  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+【产品群】即我们说的单边记账、多边记账
+
+\(By 张泽雄-民生金服-研发-北京\)  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+【产品群】在多边记账下，有一个原则要遵守：有借必有贷，借贷必相等
+
+\(By 张泽雄-民生金服-研发-北京\)  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+【产品群】也就是说，有以借记符号记账的，必须要有贷记符号的，且所有借记之和等于所有贷记之和。
+
+\(By 张泽雄-民生金服-研发-北京\)  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+【产品群】因为从会计角度来说，经济活动只是资金流动，遵循能量守恒定律。
+
+\(By 张泽雄-民生金服-研发-北京\)  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+【产品群】对于各类会计要素的借、贷符号的使用规则，如下表所示：
+
+\(By 张泽雄-民生金服-研发-北京\)  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+【产品群】在复式记账法下，借助会计分录，不易出错。
+
+\(By 张泽雄-民生金服-研发-北京\)  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+【产品群】会计分录是指预先确定每笔经济业务所涉及的账户名称，以及计入账户的方向和金额的一种记录，会计分录是会计复式记账的依据
+
+\(By 张泽雄-民生金服-研发-北京\)  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+【产品群】其实就是一件事，做了两次，会计分录可读性好，便于核查，所以必不可少
+
+\(By 张泽雄-民生金服-研发-北京\)  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+【产品群】会计分录的借、贷符号的使用，参考上图
+
+\(By 张泽雄-民生金服-研发-北京\)
 
