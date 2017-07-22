@@ -1,6 +1,6 @@
 ## _1.会计核算体系_![](/assets/4.0.1.1会计核算体系.png)
 
-**会计核算体系由以下几个关键部分组成：科目及账户体系、复式记账方法、会计凭证、会计账簿、账务报表等。                                      
+**会计核算体系由以下几个关键部分组成：科目及账户体系、复式记账方法、会计凭证、会计账簿、账务报表等。                                        
 **
 
 ### 会计科目
@@ -56,6 +56,33 @@
 ---
 
 ## _3.会计凭证_
+
+
+
+  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+【产品群】会计凭证：记录经济业务，明确经济责任，作为记账根据的书面证明
+
+\(By 张泽雄-民生金服-研发-北京\)  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+【产品群】 a\) 原始凭证：如纸质单据、电子记录。
+
+ b\) 记账凭证：收款凭证、付款凭证、转账凭证。（或三合一的通用凭证）
+
+\(By 张泽雄-民生金服-研发-北京\)  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+【产品群】这就是常见的记账凭证，示例
+
+![](/assets/4.0.1.3记账凭证示例.png)
 
 
 
