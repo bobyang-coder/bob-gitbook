@@ -31,38 +31,29 @@
 
 ![](/assets/4.0.4会计方法.png)
 
-
-
-
-
-  
-顺便说一下，交易系统的日切，本身就是一种会计分期假设的体现。
+> 顺便说一下，交易系统的日切，本身就是一种会计分期假设的体现。
 
 \(By 张泽雄-民生金服-研发-北京\)  
 p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
-span.s1 {font: 13.0px 'Helvetica Neue'}  
-
+span.s1 {font: 13.0px 'Helvetica Neue'}
 
 【产品群】顺便说一下，会计系统的日切，本身就是一种会计分期假设的体现。
 
 \(By 张泽雄-民生金服-研发-北京\)  
 p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
-span.s1 {font: 13.0px 'Helvetica Neue'}  
-
+span.s1 {font: 13.0px 'Helvetica Neue'}
 
 【产品群】一般的会计系统都是权责发生制，而账务系统的分户账的实时记账，其实就是收付实现制。
 
 \(By 张泽雄-民生金服-研发-北京\)  
 p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
-span.s1 {font: 13.0px 'Helvetica Neue'}  
-
+span.s1 {font: 13.0px 'Helvetica Neue'}
 
 【产品群】很明显的一点：会计系统中有应收、应付，但账务系统中没有。
 
 \(By 张泽雄-民生金服-研发-北京\)  
 p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
-span.s1 {font: 13.0px 'Helvetica Neue'}  
-
+span.s1 {font: 13.0px 'Helvetica Neue'}
 
 【产品群】这些理论和概念，是我们深度理解会计系统的基础。
 
