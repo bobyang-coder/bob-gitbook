@@ -1,6 +1,10 @@
-## _1.会计核算体系_![](/assets/4.0.1.1会计核算体系.png)
+## _1.会计核算体系_
 
-**会计核算体系由以下几个关键部分组成：科目及账户体系、复式记账方法、会计凭证、会计账簿、账务报表等。                                                            
+## ![](/assets/4.0.1会计核算体系.png)![](/assets/4.0.1.1会计核算体系.png)
+
+## ![](/assets/4.0.1.1会计核算体系.png)
+
+**会计核算体系由以下几个关键部分组成：科目及账户体系、复式记账方法、会计凭证、会计账簿、账务报表等。                                                              
 **
 
 ### 会计科目
@@ -73,10 +77,73 @@
 ## 4.会计账簿
 
 > 会计账簿：以会计凭证为依据，序时、连续、系统、全面的记录会计主体经济活动的簿籍。（如：一套会计系统）
->
-> 现实中的账簿如下图
->
-> ![](/assets/4.0.1现实中的会计账簿.png)
 
 
+
+  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; min-height: 15.0px}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+【产品群】账页：用来记录账户的账簿页（如：账户流水表）。
+
+\(By 张泽雄-民生金服-研发-北京\)  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+【产品群】手工账一个账页只记录一个科目账
+
+\(By 张泽雄-民生金服-研发-北京\)
+
+【产品群】账户是虚的，需要账页来承载。
+
+
+
+\(By 张泽雄-民生金服-研发-北京\)  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+【产品群】所以，记账本质上就是将会计凭证所反映的经济业务内容记录到账簿的账户中。
+
+\(By 张泽雄-民生金服-研发-北京\)
+
+  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+【产品群】而这种记账，是按前面说的复式记账法实施的
+
+\(By 张泽雄-民生金服-研发-北京\)  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+【产品群】账簿的分类
+
+\(By 张泽雄-民生金服-研发-北京\)  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+span.s2 {font: 14.0px 'Helvetica Neue'}  
+
+
+【产品群】1\)序时账簿：又叫日记账，按经济业务完成的先后顺序进行记录，
+
+如：银行日记账、现金日记账。
+
+\(By 张泽雄-民生金服-研发-北京\)  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 14.0px 'Helvetica Neue'}  
+span.s1 {font: 13.0px 'Helvetica Neue'}  
+
+
+【产品群】一般情况下，会将这两者结合起来用，比如，与银行侧的账实核对，就是利用银行日记账来做的
+
+\(By 张泽雄-民生金服-研发-北京\)
 
